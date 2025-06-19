@@ -15,3 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 [Quito Santiago_lab11y12.docx](https://github.com/user-attachments/files/20825867/Quito.Santiago_lab11y12.docx)
+
+![image](https://github.com/user-attachments/assets/c09c0dc8-365c-462f-a70b-cc1e154c89d6)
+
